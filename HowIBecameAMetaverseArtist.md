@@ -4,13 +4,9 @@ We all have that very special person that introduces us to something new, unknow
 
 Create a 3D sculpture defined by the real time data of the crypto market, to be presented on Decentraland Metaverse Art Week 2022.  
 
----
-
 ## Tauromaquia is Born
 
 Tauromaquia is an immersive, interactive data sculpture inspired by a bull-fighting scene. Bull-fighting, in Spanish *Tauromaquia*, is a cruel and medieval form of entertainment. The analogy represents how greed deforms us and makes us, as the bull, a victim of a larger form of speculative entertainment.  
-
----
 
 ## Under the Hood
 
@@ -35,8 +31,6 @@ This represents the market’s mood for that currency in a 5-second time capsule
 ### The Bleachers and Data-Walls
 
 The bleacher is a massive conical structure around the arena. Thanks to its anatomy it offers multiple perspectives of the scene by standing on it while the spectator enjoys the experience. And last but not least, the data-walls are a matrix-style light effect accomplished by overlapping multiple text layers.  
-
----
 
 ## Last Few Words…
 
