@@ -71,20 +71,26 @@ In that case, the unreleased feature branch becomes the base for subsequent work
 This makes the workflow recursive: every dependent feature builds on the correct foundation without merging unrelated changes.
 
 main
+
 │
+
 ├─ Feature A
+
 │
+
 ├─ Feature B
+
 │
+
 └─ Feature C (depends on B)
+
 │
+
 └─ Feature D (depends on C)
 
 
-The pull/merge requests order would be:  
-**D → C = C’ → B = B’ → main**
+The pull/merge requests order would be:  **D → C = C’ → B = B’ → main**
 
----
 
 ### **Release Rhythm: Fast vs Slow Repos**
 
@@ -101,7 +107,9 @@ Features can be hidden behind flags or versioned endpoints, and can be deployed 
 The commit history often reflects individual feature commits:
 
 Feature A
+
 Feature B
+
 Feature C
 
 
@@ -114,7 +122,9 @@ Here, a release branch can act as a temporary oracle.
 When merged into main, commits are often squashed into release-level commits:
 
 Release 1.1
+
 Release 1.0
+
 Release 0.2
 
 
@@ -135,7 +145,6 @@ Fast repositories show granular feature-level progress, while slow repositories 
 
 Teams can glance at the branch history and immediately understand what it represents.
 
----
 
 ### **Alright, Let’s Talk About the Workflow**
 
@@ -154,7 +163,6 @@ In short, the integrity of Staging breaks when multiple features converge withou
 
 Developers may validate their individual features, but there’s no guarantee that the shared environment reflects only what should be there.
 
----
 
 ### **How We Handle It with Our Workflow**
 
@@ -172,7 +180,6 @@ This means the PR pointing to `main` will end up being much simpler: there’s n
 
 This preserves `main` as the oracle — the single source of truth in production without contamination or risk from cross-feature merges.
 
----
 
 ### **And What Is All This About?**
 
