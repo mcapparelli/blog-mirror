@@ -16,20 +16,9 @@ We zeroed in on what was essential for us to fully trust the platform’s capabi
 
 ## AIs
 
-In May 2023, AIs took the stage of the entire tech industry, and there we were able to resolve our doubt: yes, we had taken the right path.  
-
-By envisioning the platform as a system of independent services with well-defined domains, when AIs entered the game, it became very easy for us to incorporate them to enhance our own AI developments.  
-
-We could fine-tune iterations rapidly, allowing us to reach the product we are offering today.  
+In May 2023, AIs took the stage of the entire tech industry, and there we were able to resolve our doubt: yes, we had taken the right path. By envisioning the platform as a system of independent services with well-defined domains, when AIs entered the game, it became very easy for us to incorporate them to enhance our own AI developments. We could fine-tune iterations rapidly, allowing us to reach the product we are offering today.  
 
 ## Beyond the MVP
 
-Today, it is challenging for me to consider it just an MVP.  
-
-It has successfully processed over 3 million minutes of video and over 100 million webhooks from multiple platforms. Additionally, two central concepts were added to enhance its capabilities: security and traceability, enabling us to provide a better and secure service.  
-
-I am truly proud to be part of the founding fathers of this new platform.  
-
-I have complete confidence that the foundations we laid are solid and robust, likely propelling the product to a new level.  
-
-It is essential to highlight the human warmth and technical expertise of the entire team, without whom it would have been impossible to achieve.  
+Today, it is challenging for me to consider it just an MVP. It has successfully processed over 3 million minutes of video and over 100 million webhooks from multiple platforms. Additionally, two central concepts were added to enhance its capabilities: security and traceability, enabling us to provide a better and secure service.  
+I am truly proud to be part of the founding fathers of this new platform. I have complete confidence that the foundations we laid are solid and robust, likely propelling the product to a new level. It is essential to highlight the human warmth and technical expertise of the entire team, without whom it would have been impossible to achieve.  
