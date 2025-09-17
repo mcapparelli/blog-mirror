@@ -104,13 +104,13 @@ Understanding this difference helps teams structure branches, PRs, and releases 
 
 Features can be hidden behind flags or versioned endpoints, and can be deployed multiple times per day.  
 
+```
 The commit history often reflects individual feature commits:
 
 Feature A
-
 Feature B
-
 Feature C
+```
 
 
 **Slow release repositories** (like mobile apps) follow a longer loop.  
@@ -119,13 +119,13 @@ Each release goes through store reviews, user updates, and other constraints.
 
 Here, a release branch can act as a temporary oracle.  
 
+```
 When merged into main, commits are often squashed into release-level commits:
 
 Release 1.1
-
 Release 1.0
-
 Release 0.2
+```
 
 
 Merge everything with squash at the feature level.  
