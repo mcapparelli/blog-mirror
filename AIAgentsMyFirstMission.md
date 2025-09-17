@@ -1,4 +1,4 @@
-# Managing a Group of Autonomous Agents
+# AI Agents: My First Mission
 
 I never thought I’d end up managing a group of autonomous agents with their own initiative, no filters, and zero sense of limits. But here I am: new site live, code deployed, and that weird feeling of not knowing if I did something brilliant… or if I just played with fire and got lucky.It all started with the idea of giving my portfolio site a fresh look. I already had a previous version: functional, neat, with clear content. But it didn’t really convey what I wanted to show. I wanted the design to speak for me, to better reflect my style and personality, without having to rewrite everything from scratch or launch a long, complex project.
 I was aiming for a restyling that was quick but meaningful, that brought freshness without losing essence. And that’s when I asked myself:
